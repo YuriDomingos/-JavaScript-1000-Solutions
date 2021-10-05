@@ -11,3 +11,17 @@ const menu = {
 
 
 const mixedArray = [ 12,true, 'angola', [2,4,5,6]];
+
+
+const greetings = {
+  hello: {
+    english: 'hi',
+    french: 'bonjour',
+    portuguese: 'oi'
+  },
+  goodbye: {
+    english: 'bye',
+    french: 'au revoir',
+    portuguese: 'tchau'
+  }
+};
