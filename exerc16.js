@@ -1,5 +1,5 @@
 /*
-@Autor : Yuro  Francisco Domingos 
+@Autor : Yuri  Francisco Domingos 
 Data : 02 -06 - 2020
 Objectivo : Verificar se um numero e primo
 */
