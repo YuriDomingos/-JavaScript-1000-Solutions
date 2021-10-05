@@ -8,3 +8,6 @@ const menu = {
     price : 2.95,
     ingredients : ['butter', 'ice cream','salt','sugar']
 };
+
+
+const mixedArray = [ 12,true, 'angola', [2,4,5,6]];
